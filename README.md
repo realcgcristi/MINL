@@ -13,7 +13,7 @@
 ![1000043282](https://github.com/user-attachments/assets/be2e7664-05ac-495d-ab91-617f47d6145f)
 
 ### How it works:
--> It uses a 3 warn system</br>
+It uses a 3 warn system</br>
   -> 1st Warn: Warn shown only to user.</br>
   -> 2nd Warn: Warn shown only to user</br>
   -> 3rd Warn: "The Death Penalty" - The user gets killed and a global broadcast is shown.</br>
