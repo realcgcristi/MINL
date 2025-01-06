@@ -7,3 +7,6 @@
 
 ### Screenshots:
 ![1000043375](https://github.com/user-attachments/assets/d411e01c-aea7-4001-a861-cc45628d66d2)
+
+![1000043290](https://github.com/user-attachments/assets/5dd4cdf5-8831-42da-91a6-e10a12a4f86d)
+
