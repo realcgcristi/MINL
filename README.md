@@ -14,3 +14,5 @@
 
 ### How it works:
 -> It uses a 3 warn system.
+  -> 1st Warn: Warn shown only to user.
+  
