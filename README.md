@@ -4,3 +4,6 @@
 ### A simple anti-profanity mod.
 
 ### "Maybe In a New Life they'll learn to be kinder."
+
+### Screenshots:
+![1000043375](https://github.com/user-attachments/assets/d411e01c-aea7-4001-a861-cc45628d66d2)
