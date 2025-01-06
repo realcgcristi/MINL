@@ -10,3 +10,7 @@
 
 ![1000043290](https://github.com/user-attachments/assets/5dd4cdf5-8831-42da-91a6-e10a12a4f86d)
 
+![1000043282](https://github.com/user-attachments/assets/be2e7664-05ac-495d-ab91-617f47d6145f)
+
+### How it works:
+-> It uses a 3 warn system.
